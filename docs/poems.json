@@ -1,51 +1,66 @@
 {
-  "version": 1,
+  "version": 2,
   "deleted_ids": [],
   "poems": [
     {
       "id": "poem-001",
       "number": 1,
-      "body": "In breath\\nAnd out breath -\\nA rising \\nAnd a falling\\nMeet at a moment"
+      "body": "In breath\nAnd out breath -\nA rising \nAnd a falling\nMeet at a moment"
     },
     {
       "id": "poem-002",
       "number": 2,
-      "body": "Let one breath\\nReceive the next\\nAs lovers greet\\nAnd embrace \\nAt their doorstep"
+      "body": "Let one breath\nReceive the next\nAs lovers greet\nAnd embrace \nAt their doorstep"
     },
     {
       "id": "poem-003",
       "number": 3,
-      "body": "Behold something\\nLike a lover\\nWatches the gentle face\\nOf sweet beloved\\nIn her sleep"
+      "body": "Behold something\nLike a lover\nWatches the gentle face\nOf sweet beloved\nIn her sleep"
     },
     {
       "id": "poem-004",
       "number": 4,
-      "body": "Humming space\\nSilence sings\\nHer lullaby\\nTo her beloved\\nIn peaceful night"
+      "body": "Humming space\nSilence sings\nHer lullaby\nTo her beloved\nIn peaceful night"
     },
     {
       "id": "poem-005",
       "number": 5,
-      "body": "Closed eyes,\\nThe void reveals herself.\\nThe self dissolving -\\nA surrender\\nTo eternal space"
+      "body": "Closed eyes,\nThe void reveals herself.\nThe self dissolving -\nA surrender\nTo eternal space"
     },
     {
       "id": "poem-006",
       "number": 6,
-      "body": "In breath\\nAnd out breath -\\nTwo lovers\\nCuddling\\nUnder the sheet"
+      "body": "In breath\nAnd out breath -\nTwo lovers\nCuddling\nUnder the sheet"
     },
     {
       "id": "poem-007",
       "number": 7,
-      "body": "Whistling birds\\nCrisp dry leaves\\nWhere do sound\\nCome from and go?\\nSilence"
+      "body": "Whistling birds\nCrisp dry leaves\nWhere do sound\nCome from and go?\nSilence"
     },
     {
       "id": "poem-008",
       "number": 8,
-      "body": "In breath\\nAnd out breath -\\nTwo lovers\\nHold each other\\nIn sweet awareness"
+      "body": "In breath\nAnd out breath -\nTwo lovers\nHold each other\nIn sweet awareness"
     },
     {
       "id": "poem-009",
       "number": 9,
-      "body": "Lover and beloved\\nThe sunshine \\nAnd the rain\\nMaking love\\nIn a rainbow"
+      "body": "Lover and beloved\nThe sunshine \nAnd the rain\nMaking love\nIn a rainbow"
+    },
+    {
+      "id": "poem-010",
+      "number": 10,
+      "body": "The sea breaks\nGently on the sand -\nAnd then a sound.\nThe waves tickle\nThe giggling shore"
+    },
+    {
+      "id": "poem-011",
+      "number": 11,
+      "body": "How loving\nIs a clear night sky\nOffering earth\nIllumined jewels\nOf rhythmic stars"
+    },
+    {
+      "id": "poem-012",
+      "number": 12,
+      "body": "See your thoughts\nAs passing clouds\nOn a sunny day\nClear and illumined\nIn the sky of awareness"
     }
   ]
 }
